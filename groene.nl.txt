@@ -1,3 +1,5 @@
+http_header(User-Agent): curl/8.7.1
+
 # wallabag-specific login directives (not supported in FTR)
 requires_login: yes
 login_uri: https://www.groene.nl/accounts/inloggen
